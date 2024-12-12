@@ -2,6 +2,7 @@
 a 60% case with an optional num row blocker
 
 Boring 60%
+
 ![alt text](https://github.com/ShrimpedKeyboard/Seraph/blob/main/Gallery/Case%201.png?raw=true)
 
 but it can be a 40 :Cooleggman:

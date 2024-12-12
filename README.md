@@ -20,3 +20,5 @@ Top mount/Gasket
 # PCB
 
 works with any jst/gh60 pcb
+
+Will open source/sell once ive confirmed it actually works 
